@@ -1,0 +1,8 @@
+.login-body {
+  text-align: center;
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(27,121,9,1) 34%, rgba(0,212,255,1) 100%);
+  height: 100vh;
+  width: 100vw;
+  margin: auto;
+}
